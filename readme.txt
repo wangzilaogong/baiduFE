@@ -1,3 +1,5 @@
-git is a version control system.
-Git is free software.	
-的撒大苏打  
+﻿于2016/11/9晚上建立
+用于记录百度前端试题约50+道题
+初次使用git
+可能问题还是比较多的
+但是一切才开始！
