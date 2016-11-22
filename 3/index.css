@@ -1,0 +1,19 @@
+body{
+	padding:20px;
+	font-size: 15px;
+
+}
+
+.main{
+	width: 100%;
+}
+.left{
+	width: 200px;
+	
+}
+.team-name{
+	float: right;
+}
+.middle{
+	padding: 20px;
+}
