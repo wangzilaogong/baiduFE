@@ -1,0 +1,13 @@
+Overflow技巧
+相关文文件float.html
+
+父元素
+.box-set {
+  background: #404853;
+  overflow: auto;
+}
+在IE6里面，父容器是需要设置一个“width”和“height”。因为高度可能是一个变量，宽度为100%，他们将能正常的工作。使用“overflow:auto;”,在IE浏览器中会给元素添加滚动条，这样一来，最好是直接使用“overflow:hidden;”来清除浮动。
+
+clearfix技巧
+
+http://www.w3cplus.com/css/advanced-html-css-lesson2-detailed-css-positioning.html?_t=t#containingFloats
